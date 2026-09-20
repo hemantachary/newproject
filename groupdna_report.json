@@ -1,0 +1,26 @@
+{
+  "project": "GroupDNA",
+  "description": "WhatsApp Chat Personality Analyzer",
+  "participants": 6,
+  "total_messages": 3174,
+  "chat_period": {
+    "start": "2024-04-01 01:17:00",
+    "end": "2024-05-30 23:31:00"
+  },
+  "busiest_day": {
+    "date": "2024-05-04",
+    "messages": 76
+  },
+  "busiest_hour": {
+    "hour": 18,
+    "messages": 248
+  },
+  "archetypes": {
+    "Rahul": "THE SPAMMER",
+    "Priya": "THE GROUP MOM",
+    "Karan": "THE STORYTELLER",
+    "Neha": "THE DRAMA QUEEN",
+    "Aman": "THE NIGHT OWL",
+    "Vikas": "THE GHOST"
+  }
+}
